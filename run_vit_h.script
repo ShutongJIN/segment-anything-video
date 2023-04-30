@@ -1,0 +1,1 @@
+python scripts/amg.py --checkpoint /home/shutong/Checkpoints/SAM/sam_vit_h_4b8939.pth --model-type vit_h --input ./video/test.mp4 --output ./out/
